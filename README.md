@@ -1,6 +1,6 @@
 # Book-Buddy AI 📖
 
-\![(https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%20Bot.png)]
+\![](https://www.google.com/search?q=%5Bhttps://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%2520Bot.png%5D\(https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%2520Bot.png\))
 
 ### **Your Personal AI Study Assistant**
 
@@ -35,3 +35,8 @@ The core of **Book-Buddy AI** is a sophisticated RAG pipeline. Here's a brief ov
   * **Enhances Learning:** Get instant clarifications on complex topics.
   * **Personalized Study Aid:** Turn any book into an interactive learning experience tailored just for you.
   * **Accessibility:** Study on the go, directly from your phone.
+
+
+`![](https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%20Bot.png)`
+
+This will tell GitHub to render the image located at the provided URL directly in your README.md file. Make sure to commit this updated `README.md` file to your repository.
