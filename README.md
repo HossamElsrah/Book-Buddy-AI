@@ -1,6 +1,6 @@
-# Book-Buddy AI
+# Book-Buddy AI 📖
 
-\![Project Image - You can add a GIF or a screenshot of the bot in action here]
+\![(https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%20Bot.png)]
 
 ### **Your Personal AI Study Assistant**
 
