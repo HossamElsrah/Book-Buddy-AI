@@ -1,6 +1,6 @@
 # Book-Buddy AI 📖
 
-\![](https://www.google.com/search?q=%5Bhttps://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%2520Bot.png%5D\(https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%2520Bot.png\))
+![Book-Buddy AI Telegram Bot](https://github.com/HossamElsrah/Book-Buddy-AI/blob/main/Tele%20Bot.png)
 
 ### **Your Personal AI Study Assistant**
 
